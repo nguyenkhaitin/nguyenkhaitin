@@ -1,4 +1,4 @@
-# N G U Y E N   K H A I   T I N
+# N G U Y E N &nbsp;&nbsp;&nbsp; K H A I &nbsp;&nbsp;&nbsp; T I N
 *Academic Portfolio & Technical Foundation*
 
 ---
@@ -28,10 +28,20 @@ I focus on the "Big Picture" — designing systems that don't just work, but evo
 
 ---
 
+
+### TECHNICAL STACK
+
+**DATA & SYSTEM ARCHITECTURE** ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**SYSTEM DESIGN & PROTOTYPING** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+
+**AGILE & KNOWLEDGE MANAGEMENT** ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+
 ### EXPLORE THE REPOSITORIES
 
 > Each project listed below is a business problem solved through the lens of system thinking. 
 > 
 > **Click on the repositories below** to explore the detailed documentation, data models, and prototypes that define my technical standard as a Business Analyst.
-
----
